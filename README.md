@@ -1,3 +1,5 @@
+A simple mobile shooting game that was modified from the "Gone Banana" tutorial. Folders still keep the original names of GoneBanana but the contents have been modified.
+
 Gone Bananas
 ============
 
