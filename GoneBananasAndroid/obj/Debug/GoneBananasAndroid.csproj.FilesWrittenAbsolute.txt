@@ -1,0 +1,1 @@
+/Users/student/Downloads/cocos-sharp-samples-master/GoneBananas/GoneBananasAndroid/obj/Debug/MonoAndroid,Version=v4.2.AssemblyAttribute.cs

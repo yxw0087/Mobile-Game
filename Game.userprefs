@@ -1,0 +1,21 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone6.8.1" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GoneBananasiOS/Info.plist">
+    <Files>
+      <File FileName="GoneBananasiOS/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="GoneBananasShared/GameStartLayer.cs" Line="1" Column="1" />
+      <File FileName="GoneBananasShared/GameLayer.cs" Line="1" Column="1" />
+      <File FileName="GoneBananasShared/GameOverLayer.cs" Line="1" Column="1" />
+      <File FileName="GoneBananasAndroid/MainActivity.cs" Line="1" Column="1" />
+      <File FileName="GoneBananasShared/CCPhysicsSprite.cs" Line="1" Column="1" />
+      <File FileName="GoneBananasiOS/packages.config" Line="1" Column="1" />
+      <File FileName="GoneBananasiOS/SQLite.cs" Line="1" Column="1" />
+      <File FileName="GoneBananasiOS/Main.cs" Line="1" Column="1" />
+      <File FileName="GoneBananasiOS/Info.plist" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
